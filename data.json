@@ -1,0 +1,12 @@
+{
+    "nivas": {
+        "username": "nivas",
+        "password": "1234",
+        "balance": "10000"
+    },
+    "nick": {
+        "username": "nick",
+        "password": "44444",
+        "balance": "55666"
+    }
+}
